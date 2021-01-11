@@ -1,4 +1,4 @@
-# see_primes
+# See Primes
 
 A new Flutter project.
 
